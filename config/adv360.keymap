@@ -78,6 +78,8 @@
             >;
         };
 
+        Extra1 { display-name = "Red"; };
+
         extra2 {
             display-name = "Purple";
             status = "reserved";
@@ -92,7 +94,5 @@
             display-name = "Yellow";
             status = "reserved";
         };
-
-        layer_8 { display-name = "Red"; };
     };
 };
