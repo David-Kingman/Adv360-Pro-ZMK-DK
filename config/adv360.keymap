@@ -22,14 +22,7 @@
         };
     };
 
-    combos {
-        compatible = "zmk,combos";
-
-        combo_mouse_layer {
-            bindings = <&tog 1>;
-            key-positions = <65 70>;
-        };
-    };
+    combos { compatible = "zmk,combos"; };
 
     keymap {
         compatible = "zmk,keymap";
