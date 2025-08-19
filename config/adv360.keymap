@@ -46,7 +46,7 @@
         compatible = "zmk,combos";
 
         mouse_toggle {
-            bindings = <&tog 2>;
+            bindings = <&tog 1>;
             key-positions = <65 70>;
         };
     };
