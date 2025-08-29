@@ -46,6 +46,11 @@
             bindings = <&tog 1>;
             key-positions = <65 70>;
         };
+
+        fluent_search {
+            bindings = <&kp LA(LC(M))>;
+            key-positions = <65 69>;
+        };
     };
 
     macros {
